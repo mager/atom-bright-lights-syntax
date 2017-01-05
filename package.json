@@ -1,0 +1,20 @@
+{
+  "name": "atom-bright-lights",
+  "author": "@mager",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A bright theme that will light up code in more ways than one.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bright",
+    "dark",
+    "base16",
+    "vibrant",
+  ],
+  "repository": "https://github.com/mager/atom-bright-lights",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
