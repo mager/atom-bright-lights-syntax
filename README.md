@@ -1,6 +1,8 @@
 # Atom Bright Lights Syntax
 
-A bright, vibrant theme with a dark backdrop, inspired by [Base16](http://chriskempson.github.io/base16/).
+_A bright, vibrant Atom syntax theme with a dark backdrop, inspired by [Base16](http://chriskempson.github.io/base16/)._
+
+https://atom.io/packages/atom-bright-lights-syntax
 
 #### Screenshots coming soon
 
