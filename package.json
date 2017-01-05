@@ -1,5 +1,5 @@
 {
-  "name": "atom-bright-lights",
+  "name": "atom-bright-lights-syntax",
   "author": "@mager",
   "theme": "syntax",
   "version": "0.0.1",
@@ -12,7 +12,7 @@
     "base16",
     "vibrant",
   ],
-  "repository": "https://github.com/mager/atom-bright-lights",
+  "repository": "https://github.com/mager/atom-bright-lights-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
