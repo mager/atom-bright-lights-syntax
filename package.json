@@ -2,7 +2,7 @@
   "name": "atom-bright-lights-syntax",
   "author": "@mager",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A bright theme that will light up code in more ways than one.",
   "keywords": [
     "syntax",
